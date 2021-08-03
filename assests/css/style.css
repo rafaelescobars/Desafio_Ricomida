@@ -1,0 +1,89 @@
+/* font-family: 'Cabin', sans-serif; */
+/* font-family: 'Lobster', sans-serif; */
+
+body{
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+.navbar{
+    background-color: #373A3C;
+    color: #FFFFFF;
+}
+
+#navbar_title{
+    font-family: 'Lobster', sans-serif;
+    font-size: 2.3125rem;
+}
+
+.container{
+    border: #373A3C;
+    border-width: 2rem;
+}
+
+#titulo{
+    /* font-size: 140%; */
+    font-weight: 700;
+}
+
+#sub_minutos{
+    /* height: 10%; */
+    font-weight: 700;
+    font-size: 110%;
+}
+
+.btn-outline-secondary {
+    font-size: 80%;
+    width: auto;
+    white-space: nowrap;
+    /* color: #373A3C; */
+}
+
+.tooltip-inner{
+    white-space: nowrap;
+    width: auto;
+    max-width: none;
+}
+
+.slides{
+    /* height: 75%; */
+    width: 100%;
+}
+
+/* #blog-carousel{ */
+    /* height: 50%; */
+/* } */
+
+.carousel-indicators {
+    top: 110%;
+}
+
+#btn_indicador1{
+    /* color: #373A3C; */
+    height: 1rem;
+    width: 1rem;
+}
+
+#btn_indicador2 {
+    /* color: #373A3C; */
+    height: 1rem;
+    width: 1rem;
+}
+
+.fw-bold{
+    font-weight: 700;
+}
+
+#Section_Suscribete{
+    background-color: #dc3545;
+}
+
+#Suscribete_Logo{
+    font-family: 'Lobster', sans-serif;
+}
+
+footer{
+        font-family: 'Lobster', sans-serif;
+        background-color: #373A3C;
+        color: #FFFFFF;
+}
